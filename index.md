@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to Nboiyl Studio
 
-You can use the [editor on GitHub](https://github.com/dashboard-inv/Nboiylstudio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Untuk mendukung creator [Nboiyl Studio](https://www.youtube.com/nboiylstudio) kalian bisa membantu dengan memberikan donasi pada link di bawah.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 5.000
 
-### Markdown
+[Klik Donasi 5k](https://app.midtrans.com/payment-links/1608017873614)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 10.000
 
-```markdown
-Syntax highlighted code block
+[Klik Donasi 10k](https://app.midtrans.com/payment-links/1608017548938)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### 30.000
 
-1. Numbered
-2. List
+[Klik Donasi 30k](https://app.midtrans.com/payment-links/1608017809447)
 
-**Bold** and _Italic_ and `Code` text
+### 50.000
 
-[Link](url) and ![Image](src)
-```
+[Klik Donasi 50k](https://app.midtrans.com/payment-links/1608017681620)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 100.000
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dashboard-inv/Nboiylstudio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Klik Donasi 100k](https://app.midtrans.com/payment-links/1608017719647)
